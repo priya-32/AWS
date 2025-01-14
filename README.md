@@ -13,5 +13,7 @@
   -  a leading topo platform in providing web services of various domains .
   -  follows trend of digital IT and comes up needy services from computer to storage
   -  pay per use pricing model over the internet such as Storage , Computing Power , Databases , Machine learning services and more
-  -  
-Cloud 
+
+****************************************************************************
+Module 1:
+Intoducton to AWS Cloud Computing
